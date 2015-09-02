@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px){
+	.ushur-chat-container{
+		height: 100% !important;
+		width: 100% !important;
+		right:0px !important;
+		left:0px !important;
+	}
+	.ushur-chat-body-container{
+		height:88% !important;
+	}
+	.ushur-chat-header-container{
+		border-top-left-radius: 0px;
+		border-top-right-radius: 0px;
+		background-color: #1E7FDA !important;
+	}
+	.default-chat{
+		font-size: 18px !important;
+	}
+}
